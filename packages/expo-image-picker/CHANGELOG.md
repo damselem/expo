@@ -16,6 +16,7 @@
 
 ### 💡 Others
 
+- [Android] Migrate `ExpoCropImageActivity` away from `CropImageActivity`. ([#47141](https://github.com/expo/expo/pull/47141) by [@Wenszel](https://github.com/Wenszel))
 - [Web] Drop dependency on `expo-modules-core` `Platform` in favor of inline `window`/`document` checks. ([#45923](https://github.com/expo/expo/pull/45923) by [@EvanBacon](https://github.com/EvanBacon))
 - Switch package entry to TypeScript source and emit declarations only. ([#45923](https://github.com/expo/expo/pull/45923) by [@EvanBacon](https://github.com/EvanBacon))
 
